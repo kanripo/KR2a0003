@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 史記索隱
-#+DATE: 2015-09-23 09:41:20
-#+PROPERTY: JUAN 31
+#+DATE: 2015-08-24 22:19:22.190473
+#+PROPERTY: ID KR2a0003
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後序
 <pb:KR2a0003_WYG_031-1a>¶
 　讀史家多尚索隠宋諸儒尤推小司馬史記與小顔¶
 　氏漢書如日月並炤故淳&KR3321;咸湻間官本頗多廣漢¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　史記索隠後序¶
-
